@@ -1,1 +1,1 @@
-# Lab_2
+# Lab_inform_2
